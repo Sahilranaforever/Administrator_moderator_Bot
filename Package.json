@@ -1,0 +1,13 @@
+{
+    "name": "Moderator-bot",
+    "version": "1.0.0",
+    "description": "This is a administrator and moderator bot",
+    "main": "Moderator-bot.js",
+    "author": "sahil rana",
+    "scripts": {
+        "start": "node bot.js"
+    },
+    "dependencies": {
+	"discord.js" : "11.2.1"
+	}
+}
